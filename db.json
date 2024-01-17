@@ -1,1 +1,48 @@
+[
+  {
+    "id": 1,
+    "customer": "John Doe",
+    "propensity": 0.75,
+    "visits_last_24_hours": 3,
+    "total_visits": 20,
+    "total_time_spent": "5 hours",
+    "visitor_type": "repeat"
+  },
+  {
+    "id": 2,
+    "customer": "Jane Smith",
+    "propensity": 0.60,
+    "visits_last_24_hours": 2,
+    "total_visits": 15,
+    "total_time_spent": "3.5 hours",
+    "visitor_type": "repeat"
+  },
+  {
+    "id": 3,
+    "customer": "Alice Johnson",
+    "propensity": 0.85,
+    "visits_last_24_hours": 1,
+    "total_visits": 10,
+    "total_time_spent": "2 hours",
+    "visitor_type": "new"
+  },
+  {
+    "id": 4,
+    "customer": "Bob Anderson",
+    "propensity": 0.45,
+    "visits_last_24_hours": 4,
+    "total_visits": 12,
+    "total_time_spent": "4.5 hours",
+    "visitor_type": "repeat"
+  },
+  {
+    "id": 5,
+    "customer": "Eva Davis",
+    "propensity": 0.70,
+    "visits_last_24_hours": 1,
+    "total_visits": 8,
+    "total_time_spent": "1.8 hours",
+    "visitor_type": "new"
+  }
+]
 
